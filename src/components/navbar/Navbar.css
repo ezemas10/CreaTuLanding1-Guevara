@@ -1,6 +1,7 @@
 .logonav {
-  max-width: 300px;
+  /* max-width: 300px; */
   margin-right: 5px;
+  color: lightseagreen;
 }
 
 .navbar-estilopropio {
